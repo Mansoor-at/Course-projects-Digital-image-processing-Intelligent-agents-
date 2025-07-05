@@ -12,7 +12,7 @@ This repo contains course project codes, reports and trained models on Polyp cla
 |                       | DenseNet-121     | Kvasir_v2            | 88.75%   | 89.06%    | 88.75% | 88.76%   | --          |
 | Diego Flores          | ResNet-50        | Kvasir_v2             | 82.67%   | --        | --     | --       | --          |
 | Luis Miguel Portugal  | ResNet-50        | Colorectal      | 94.80%   | 95.15%    | 94.80% | 94.88%   | --          |
-| Pablo Perez           | MobileNetv2      | Kvasir_v2             | 96.00%   | 94.04%    | 94.00% | 93.99%   | 97.00%      |
+| Pablo Perez           | MobileNet_v2      | Kvasir_v2             | 96.00%   | 94.04%    | 94.00% | 93.99%   | 97.00%      |
 | Samir Tiscareño       | ResNet-18        | Kvasir_v2             | 89.25%   | 89.74%    | 89.25% | 89.20%   | 89.74%      |
 | Santiago Hernadnez    | EfficientNetb3   | Kvasir_v2             | 94.87%   | --        | --     | --       | --          |
-| Valeria Andrade       | MobileNetv2      | Kvasir_v2             | 94.89%   | 95.07%    | 94.89% | 94.87%   | 97.44%      |
+| Valeria Andrade       | MobileNet_v2      | Kvasir_v2             | 94.89%   | 95.07%    | 94.89% | 94.87%   | 97.44%      |
