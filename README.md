@@ -23,4 +23,4 @@ This repo contains awesome course project codes, reports and trained models on P
 If you have any questions, suggestions, or collaboration ideas, feel free to reach out:
 
 - **Name**: Mansoor Ali 
-- **Email**: [ali.mansoor2024@gmail.com](mailto:ali.mansoor2024@gmail.com  
+- **Email**: [ali.mansoor2024@gmail.com](mailto:ali.mansoor2024@gmail.com)  
