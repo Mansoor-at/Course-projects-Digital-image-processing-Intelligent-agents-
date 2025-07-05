@@ -4,8 +4,8 @@ This repo contains course project codes, reports and trained models on Polyp cla
 
 ## 📊 Model Evaluation Summary
 
-| Name of Student | Model        | Evaluation Measures                                                                 |
-|-----------------|--------------|-------------------------------------------------------------------------------------|
-| Alice           | ResNet-50    | <ul><li>Accuracy: 92.3%</li><li>Precision: 90.5%</li><li>Recall: 91.8%</li><li>F1 Score: 91.1%</li><li>Specificity: 93.2%</li></ul> |
-| Bob             | VGG-16       | <ul><li>Accuracy: 88.7%</li><li>Precision: 87.2%</li><li>Recall: 86.9%</li><li>F1 Score: 87.0%</li><li>Specificity: 89.5%</li></ul> |
-| Clara           | EfficientNet | <ul><li>Accuracy: 94.1%</li><li>Precision: 93.8%</li><li>Recall: 94.5%</li><li>F1 Score: 94.1%</li><li>Specificity: 95.0%</li></ul> |
+| Name of Student | Model        | Accuracy | Precision | Recall | F1 Score | Specificity |
+|-----------------|--------------|----------|-----------|--------|----------|-------------|
+| Alice           | ResNet-50    | 92.3%    | 90.5%     | 91.8%  | 91.1%    | 93.2%       |
+| Bob             | VGG-16       | 88.7%    | 87.2%     | 86.9%  | 87.0%    | 89.5%       |
+| Clara           | EfficientNet | 94.1%    | 93.8%     | 94.5%  | 94.1%    | 95.0%       |
