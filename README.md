@@ -16,3 +16,11 @@ This repo contains awesome course project codes, reports and trained models on P
 | Samir Tiscareño       | ResNet-18        | Kvasir_v2             | 89.25%   | 89.74%    | 89.25% | 89.20%   | 89.74%      |
 | Santiago Hernadnez    | EfficientNetb3   | Kvasir_v2             | 94.87%   | --        | --     | --       | --          |
 | Valeria Andrade       | MobileNet_v2      | Kvasir_v2             | 94.89%   | 95.07%    | 94.89% | 94.87%   | 97.44%      |
+
+
+## 📬 Contact
+
+If you have any questions, suggestions, or collaboration ideas, feel free to reach out:
+
+- **Name**: Mansoor Ali 
+- **Email**: [ali.mansoor2024@gmail.com](mailto:ali.mansoor2024@gmail.com  
